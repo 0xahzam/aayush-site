@@ -29,7 +29,7 @@ export default function Home() {
         <Text color={"white"}>
           currently  → <span className="exag" style={{color:"#F5841F"}}>founder&apos;s</span> intern <span className="exag" style={{color:"#D2FFD1"}}><a href="https://twitter.com/manangouhari" target={"blank"}>@mglabs</a></span>
         </Text>
-        <Flex backgroundColor={"#0C0C0C"} width={{base:"200px",md:"242px"}} rounded={"7px"} marginTop={"17px"} color={"white"} fontSize={{base:"14px",md:"16px"}}  justifyContent="center" p={"7px"}>
+        <Flex backgroundColor={"#0C0C0C"} width={{base:"170px",md:"242px"}} rounded={"7px"} marginTop={"17px"} color={"white"} fontSize={{base:"12px",md:"16px"}}  justifyContent="center" p={"7px"}>
         <Text>
         <span style={{opacity:"78%"}}>want to chat? </span> <span className="exag2"> <a href="https://twitter.com/AayushCodes" target={"blank"}>find me here</a></span> 
         </Text>

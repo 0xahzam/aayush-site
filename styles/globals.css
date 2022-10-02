@@ -35,19 +35,19 @@ html{
     background-image:url('/bg.png');
     background-size: cover;
     font-family: 'Inter', sans-serif;
-    font-size: 19px;
+    font-size: 17px;
   }
   
   .exag{
     font-family: 'EB Garamond', serif;
     font-style: italic;
-    font-size: 23px;
+    font-size: 21px;
   }
   
   .exag2{
     font-family: 'EB Garamond', serif;
     font-style: italic;
-    font-size: 16px;
+    font-size: 14px;
     opacity: 59%;
   }
 }
