@@ -24,10 +24,10 @@ export default function Home() {
       <Flex justifyContent={"center"} alignContent={"center"} height="100vh">
         <Flex justifyContent={"center"} alignContent={"center"} flexDirection={"column"}>
         <Text color={"white"}>
-          Hey, I&apos;m <span className="exag" style={{color:"#D2FFD1", textDecoration:"underline"}}>Aayush</span> —  I write <span className="exag" style={{color:"#FF72B9"}}>smartcontracts.</span> 
+          Hey, I&apos;m <span className="exag" style={{color:"#D2FFD1", textDecoration:"underline"}}>Aayush</span> —  I <span className="exag" style={{color:"#FF72B9"}}>build, write and vibe.</span> 
         </Text>
         <Text color={"white"}>
-          currently  → <span className="exag" style={{color:"#F5841F"}}>founder&apos;s</span> intern <span className="exag" style={{color:"#D2FFD1"}}><a href="https://twitter.com/manangouhari" target={"blank"}>@mglabs</a></span>
+          currently  → Intern <span className="exag" style={{color:"#D2FFD1"}}><a href="https://twitter.com/findsignalHQ" target={"blank"}>@FindSignal</a></span>
         </Text>
         <Flex backgroundColor={"#0C0C0C"} width={{base:"170px",md:"242px"}} rounded={"7px"} marginTop={"17px"} color={"white"} fontSize={{base:"12px",md:"16px"}}  justifyContent="center" p={"7px"}>
         <Text>
